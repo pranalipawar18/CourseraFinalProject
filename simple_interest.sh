@@ -1,6 +1,5 @@
-#simple_interest.sh
-#new file is created
-!/bin/bash
+
+#!/bin/bash
 
 echo"Enter the principal:"
 read p    
